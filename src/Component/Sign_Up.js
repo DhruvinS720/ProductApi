@@ -60,6 +60,10 @@ const Sign_Up = () => {
     <>
     <h1>drs</h1>
 
+    <div>
+      <h1>jaydeep</h1>
+    </div>
+
     dtgdrtfcfrytdxfekjnjkniujnpo
       <div className="hold-transition register-page">
         <div className="register-box text-center">
