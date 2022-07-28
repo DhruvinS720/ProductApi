@@ -60,6 +60,12 @@ const Sign_Up = () => {
     <>
     <h1>drs</h1>
 
+    <div>
+      <h1>jaydeep</h1>
+    </div>
+
+    dtgdrtfcfrytdxfekjnjkniujnpo
+
 
       <div>
         idgp0orddogp
