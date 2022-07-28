@@ -1,0 +1,7 @@
+:root{
+  --gray-dark: #343a40;
+}
+
+.text-darkGrey{
+  color: var(--gray-dark);
+}
