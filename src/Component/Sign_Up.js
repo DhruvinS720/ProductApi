@@ -60,7 +60,9 @@ const Sign_Up = () => {
     <>
     <h1>drs</h1>
 
-    dtgdrtfcfrytdxfe
+      <div>
+        idgp0orddogp
+      </div>
       <div className="hold-transition register-page">
         <div className="register-box text-center">
           <div className="register-logo">
